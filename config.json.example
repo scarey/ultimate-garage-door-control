@@ -1,0 +1,22 @@
+{
+  "garageDoors": [
+    {
+      "openPin": 17,
+      "closedPin": 22,
+      "relayPin": 26,
+      "hall1Pin": 23,
+      "hall2Pin": 19,
+      "clockwiseOpen": false,
+      "quadrature": false
+    },
+    {
+      "openPin": 21,
+      "closedPin": 16,
+      "relayPin": 18,
+      "hall1Pin": 27,
+      "hall2Pin": 25,
+      "clockwiseOpen": false,
+      "quadrature": true
+    }
+  ]
+}
